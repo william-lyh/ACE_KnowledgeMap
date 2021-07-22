@@ -18,15 +18,15 @@
     },
     {
       "id": 5,
-      "name": "Object-Oriented Programming"
+      "name": "OOP"
     },
     {
       "id": 6,
-      "name": "Higher-Order Functions"
+      "name": "HOF"
     },
     {
       "id": 7,
-      "name": "Algorithmic Complexity"
+      "name": "Algorithms"
     }
   ],
   "links": [
@@ -37,25 +37,45 @@
     },
     {
       "source": 1,
-      "target": 5
+      "target": 6
     },
     {
       "source": 1,
+      "target": 7
+    },
+
+    {
+      "source": 2,
       "target": 6
     },
 
     {
       "source": 2,
-      "target": 3
+      "target": 7
     },
-
     {
       "source": 3,
       "target": 4
     },
+
+    {
+      "source": 3,
+      "target": 5
+    },
+
     {
       "source": 4,
-      "target": 5
+      "target": 7
+    },
+
+    {
+      "source": 5,
+      "target": 7
+    },
+
+    {
+      "source": 6,
+      "target": 7
     }
   ]
 }
