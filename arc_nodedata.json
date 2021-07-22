@@ -2,43 +2,31 @@
   "nodes": [
     {
       "id": 1,
-      "name": "A"
+      "name": "Functions"
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "Recursion"
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "List"
     },
     {
       "id": 4,
-      "name": "D"
+      "name": "Data Structure"
     },
     {
       "id": 5,
-      "name": "E"
+      "name": "Object-Oriented Programming"
     },
     {
       "id": 6,
-      "name": "F"
+      "name": "Higher-Order Functions"
     },
     {
       "id": 7,
-      "name": "G"
-    },
-    {
-      "id": 8,
-      "name": "H"
-    },
-    {
-      "id": 9,
-      "name": "I"
-    },
-    {
-      "id": 10,
-      "name": "J"
+      "name": "Algorithmic Complexity"
     }
   ],
   "links": [
@@ -60,34 +48,14 @@
       "source": 2,
       "target": 3
     },
-            {
-      "source": 2,
-      "target": 7
-    }
-    ,
 
     {
       "source": 3,
       "target": 4
     },
-     {
-      "source": 8,
-      "target": 3
-    }
-    ,
     {
       "source": 4,
       "target": 5
-    }
-    ,
-
-    {
-      "source": 4,
-      "target": 9
-    },
-    {
-      "source": 5,
-      "target": 10
     }
   ]
 }
